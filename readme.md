@@ -1,4 +1,4 @@
-<img src="Imgs/GIFLogin.gif">
+<img src="img/GIFLogin.gif">
 <h1 align="center">
 <p>A simple php login sistem!<br> 
 Um sistema de login simples em php!</p>
