@@ -14,6 +14,8 @@ This is a basic login system project developed in PHP, at a beginner level to un
 
 Este é um projeto básico de sistema de login desenvolvido em PHP,a nivel iniciante para entender os fundamentos do controle de acesso em aplicações web. O sistema conta com um único usuário cadastrado para simplificar a implementação. O sistema permite o login do usuário, faz a validação dos campos, restringe o acesso a página de dashboard.php caso ainda não tenha feito o login redirecionando para um aviso de falta de poder de acesso.
 
+User: Ana Monte
+password: anamonte
 <br> 
 
 ## 🔧 Tools
